@@ -1,7 +1,15 @@
+import React,{useEffect, useState} from 'react';
 import logo from './logo.svg';
 import './App.css';
 
+
+
+
 function App() {
+  const [country, setCountry]= useState([]);
+  const useEffect(
+    
+    ,[])
   return (
     <div className="App">
       <header className="App-header">
